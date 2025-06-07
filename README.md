@@ -42,7 +42,7 @@ In August 2023, Rhysida ransomware hit a healthcare provider with 16 hospitals a
 - MITRE CVE Database
 
 ## Solution Design
-
+![Script Output](https://github.com/Kelvinchuks/Phishing-Detection-for-Health-Workers/blob/Kelvinchuks/Project%20Structure.PNG)
 - **Phishing Detection Engine**: CLI and web app using signature + heuristic scanning.
 - **Live Inbox Scanning**: IMAP with OAuth authentication.
 - **Alerting System**: Real-time notifications for phishing detections.
