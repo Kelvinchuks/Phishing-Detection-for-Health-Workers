@@ -1,5 +1,5 @@
 # Detecting and Preventing Phishing Attacks on Health Workers through Network Traffic Monitoring and Detection
-
+![IOC](https://github.com/Kelvinchuks/Phishing-Detection-for-Health-Workers/blob/Kelvinchuks/Capture.PNG)
 This project aims to protect healthcare workers, especially in underserved populations, from phishing attacks through a custom-built detection tool and secure network infrastructure. It combines technical countermeasures with staff training to prevent incidents like ransomware. This project aligns with UN SDG3 aims for health access and safety.
 
 ## Problem Statement
