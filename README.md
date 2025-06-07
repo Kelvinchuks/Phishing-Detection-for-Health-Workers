@@ -103,3 +103,5 @@ A heartfelt thank you to:
 - **Mentor Me Collective**
 
 for providing an incredible **scholarship opportunity** that made this project possible. Your support in empowering students and aspiring professionals through education and mentorship is deeply appreciated.
+
+For the full project documentation, check out [Detecting and Preventing Phishing Attacks on Health Workers through Network Traffic Monitoring and Detection](https://docs.google.com/document/d/1VJFJ13nrWwd9UfgFxo19_n8xVGxew6MBC8sh-f_yZNE/edit?usp=sharing)
