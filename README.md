@@ -1,6 +1,6 @@
 # Detecting and Preventing Phishing Attacks on Health Workers through Network Traffic Monitoring and Detection
 
-This project aims to protect healthcare workers, especially in underserved populations, from phishing attacks through a custom-built detection tool and secure network infrastructure. It combines technical countermeasures with staff training to prevent incidents like ransomware.
+This project aims to protect healthcare workers, especially in underserved populations, from phishing attacks through a custom-built detection tool and secure network infrastructure. It combines technical countermeasures with staff training to prevent incidents like ransomware. This project aligns with UN SDG3 aims for health access and safety.
 
 ## Problem Statement
 Phishing attacks on healthcare workers are on the rise, especially during crises like pandemics. Attackers exploit urgency to steal credentials or deploy ransomware. Many health systems lack phishing protection at the network level, and staff are often untrained in identifying phishing attempts.
@@ -63,6 +63,19 @@ In August 2023, Rhysida ransomware hit a healthcare provider with 16 hospitals a
 | Testing        | Simulations and failover tests                            | 1–2 weeks    |
 | Go-Live        | Deploy, monitor, handover                                 | 1–2 weeks    |
 
+## Risk Management
+
+### Risks
+- Untrained users may click on phishing links.
+- False positives from heuristic detection.
+- Network vulnerabilities if not patched.
+
+### Mitigations
+- Regular phishing awareness training.
+- Continuous model tuning.
+- Secure configuration and patch management.
+- Redundancy and failover systems in place.
+
 ## References
 
 - [HC3 - Rhysida Ransomware Report](https://www.hhs.gov/sites/default/files/rhysida-ransomware-hc3-analyst-note.pdf)
@@ -70,3 +83,12 @@ In August 2023, Rhysida ransomware hit a healthcare provider with 16 hospitals a
 - [VirusTotal Report](https://www.virustotal.com/)
 - [OWASP Phishing Detection Guide](https://owasp.org/www-community/Phishing)
 - [NIST Cybersecurity Framework](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf)
+
+## 🙌 Acknowledgements
+
+This project was made possible by the contributions and collaboration of the following team members:
+
+- **[Toochukwu Okutalukwe]** – Project Lead 
+- **[Safirah Milien]** – Network Security
+- **[Andrew Gonzalez]** – Researcher
+- **[Latifah Johnson]** – Project Advisor
