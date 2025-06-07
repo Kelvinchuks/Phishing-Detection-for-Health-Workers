@@ -101,4 +101,5 @@ A heartfelt thank you to:
 
 - **Grow with Google**
 - **Mentor Me Collective**
+
 for providing an incredible **scholarship opportunity** that made this project possible. Your support in empowering students and aspiring professionals through education and mentorship is deeply appreciated.
