@@ -1,4 +1,5 @@
-# Phishing-Detection-for-Health-Workers
+# Detecting and Preventing Phishing Attacks on Health Workers through Network Traffic Monitoring and Detection
+
 This project aims to protect healthcare workers, especially in underserved populations, from phishing attacks through a custom-built detection tool and secure network infrastructure. It combines technical countermeasures with staff training to prevent incidents like ransomware.
 
 ## Problem Statement
