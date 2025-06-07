@@ -27,7 +27,7 @@ In August 2023, Rhysida ransomware hit a healthcare provider with 16 hospitals a
 
 ### Indicators of Compromise (IoCs)
 - File Hashes (VirusTotal checked)
-![Data Professional Breakdown](https://github.com/Kelvinchuks/Data-Professional-Survey-Breakdown/assets/93551370/d6df82e4-ce9b-4078-8f87-4e346ff0cf96)
+![Data Professional Breakdown](https://github.com/Kelvinchuks/Phishing-Detection-for-Health-Workers/blob/Kelvinchuks/IOC_VirusTotal.PNG)
 - File extensions changed to `.rhysida`
 - Use of ChaCha20 and 4096-bit RSA encryption
 
