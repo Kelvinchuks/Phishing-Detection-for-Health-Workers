@@ -88,7 +88,16 @@ In August 2023, Rhysida ransomware hit a healthcare provider with 16 hospitals a
 
 This project was made possible by the contributions and collaboration of the following team members:
 
-- **[Toochukwu Okutalukwe]** – Project Lead 
-- **[Safirah Milien]** – Network Security
-- **[Andrew Gonzalez]** – Researcher
-- **[Latifah Johnson]** – Project Advisor
+- **Toochukwu Okutalukwe** – Project Lead 
+- **Safirah Milien** – Network Security
+- **Andrew Gonzalez** – Researcher
+- **Latifah Johnson** – Project Advisor
+- **Nsikanabasi Akpanessien** Academic Supervisor
+
+### 🎓 Special Thanks
+
+A heartfelt thank you to:
+
+- **Grow with Google**
+- **Mentor Me Collective**
+for providing an incredible **scholarship opportunity** that made this project possible. Your support in empowering students and aspiring professionals through education and mentorship is deeply appreciated.
