@@ -48,6 +48,8 @@ In August 2023, Rhysida ransomware hit a healthcare provider with 16 hospitals a
 - **Alerting System**: Real-time notifications for phishing detections.
 - **Secure Storage**: Auth-protected JSON/CSV reports saved in a database.
 - **User Interface**: Flask web app for non-technical users.
+- **Network hardening** (VLAN, firewalls)
+![Network_configuration](https://github.com/Kelvinchuks/Phishing-Detection-for-Health-Workers/blob/Kelvinchuks/Network_configuration.PNG)
 
 ## Implementation Timeline
 
